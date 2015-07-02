@@ -1,1 +1,3 @@
-# leetcode刷题
+# learn as a pythoner
+
+## leetcode刷题
