@@ -5,7 +5,7 @@ from main import Solution
 
 solution = Solution()
 
-n = 20
+n = 230
 
 count = solution.countDigitOne(n)
 print count
