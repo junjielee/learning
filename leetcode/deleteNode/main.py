@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+problem: https://leetcode.com/problems/delete-node-in-a-linked-list/
+"""
 
 
 # Definition for singly-linked list.

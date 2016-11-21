@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+problem: https://leetcode.com/problems/contains-duplicate/
+"""
+
 
 class Solution:
     # @param {integer[]} nums
@@ -15,6 +19,6 @@ class Solution:
                 return True
         return False
 
-nums = [1,1]
+nums = [1, 1]
 solution = Solution()
 print solution.containDuplicate(nums)

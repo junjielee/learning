@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+problem: https://leetcode.com/problems/happy-number/
+"""
 
 
 class Solution(object):

@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+problem: https://leetcode.com/problems/majority-element/
+"""
 
 
 class Solution(object):

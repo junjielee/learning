@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+problem: https://leetcode.com/problems/house-robber/
+"""
 
 
 class Solution(object):
